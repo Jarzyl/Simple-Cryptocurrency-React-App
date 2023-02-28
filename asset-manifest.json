@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Cryptocurrency-React-App/static/css/main.9cd65686.css",
+    "main.js": "/Simple-Cryptocurrency-React-App/static/js/main.c25fd812.js",
+    "index.html": "/Simple-Cryptocurrency-React-App/index.html",
+    "main.9cd65686.css.map": "/Simple-Cryptocurrency-React-App/static/css/main.9cd65686.css.map",
+    "main.c25fd812.js.map": "/Simple-Cryptocurrency-React-App/static/js/main.c25fd812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd65686.css",
+    "static/js/main.c25fd812.js"
+  ]
+}
